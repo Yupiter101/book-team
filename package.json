@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "book-team",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://tien1o.github.io/bookshelf-group-09",
+  "homepage": "https://Yupiter101.github.io/book-team",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /bookshelf-group-09/"
+    "build": "parcel build src/*.html --public-url /book-team/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Yupiter101/book-team.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
